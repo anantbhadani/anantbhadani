@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Anant Bhadani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Data Analyst skilled in Python, SQL, Excel, and Power BI, with experience in data cleaning, analysis, and
+generating actionable insights to support decision-making in AI-driven fintech environments.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantbhadani&label=Profile%20views&color=0e75b6&style=flat" alt="anantbhadani" /> </p> -->
 
