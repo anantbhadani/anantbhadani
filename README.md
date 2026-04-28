@@ -106,7 +106,7 @@
 
 ## 📄 Resume
 
-📥 [View My Resume](https://drive.google.com/file/d/1MKbIRhC3xMQclxxcbNNrkXQR7t2q5Qyq/view?usp=drivesdk)
+📥 [View My Resume](https://drive.google.com/file/d/1Uu3FSbAG_fj3mAdIalPPf1onggnGxAF7/view?usp=sharing)
 
 ---
 
